@@ -24,4 +24,4 @@ A simple stack ready for Magento 2. Please note that redis term here is just onl
 * composer
 
 ### Docker Compose
-Please see [docker-compose.yml](https://github.com/donamkhanh/nginx-php7fpm-redis-for-magento2/blob/master/docker-compose.yml)
+Please see [docker-compose.yml](./docker-compose.yml)
